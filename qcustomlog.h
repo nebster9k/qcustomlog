@@ -18,6 +18,7 @@
 #include <QMetaObject>
 #include <QCoreApplication>
 #include <QRegularExpression>
+#include <QLoggingCategory>
 #include <QElapsedTimer>
 #include <atomic>
 #include <QString>
